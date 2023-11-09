@@ -17,8 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
+c'est pas facile de comprendre le tp7
 
 ```
 A définir
